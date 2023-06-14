@@ -13,6 +13,11 @@ public class Artista {
                 "nombreArtista='" + nombreArtista + '\'' +
                 '}';
     }
+    //DanielRodriguezGonzalez
+    public void setNombreArtista(String nombreArtista) {
+        this.nombreArtista = nombreArtista;
+    }
+    
 }
 
 
